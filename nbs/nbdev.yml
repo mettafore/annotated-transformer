@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "annotated-transformer"
+  site-url: "https://mettafore.github.io/annotated-transformer"
+  description: "An annotated implementation of the Transformer paper."
+  repo-branch: master
+  repo-url: "https://github.com/mettafore/annotated-transformer"
